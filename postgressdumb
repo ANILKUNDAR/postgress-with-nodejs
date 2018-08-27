@@ -1,0 +1,4 @@
+Open Terminal then 
+cd c:\program files\postgresql\10\bin
+Then type pg_dump.exe -U Username -d databasename  -f filename.sql(ex:d:\backup\backup.sql) 
+Enter
